@@ -1,0 +1,27 @@
+command:
+  name: build:develop
+  description: 'Build development site'
+commands:
+#  - command: 'database:dump'
+#    options:
+#        file: ../mariadb-init/backup.sql
+  # Install site
+  - command: site:install
+    options:
+      force: true
+    arguments:
+      profile: standard
+  # Import configuration
+#  - command: config:import
+  # Rebuild caches.
+  - command: cache:rebuild
+    arguments:
+        cache: all
+  # Import split configuration
+#  - command: config_split:import
+#    options:
+#      no-interaction: true
+  # Rebuild caches.
+#  - command: cache:rebuild
+#    arguments:
+#        cache: all
