@@ -50,6 +50,15 @@ services:
       - 'traefik.backend=nginx'
       - 'traefik.port=80'
       - 'traefik.frontend.rule=Host:${PROJECT_URL}'
+  
+  api:
+    build:
+      context: ./api
+      dockerfile: ./Dockerfile
+    labels:
+      - 'traefik.backend=api'
+      - 'traefik.port=3000'
+      - 'traefik.frontend.rule=Host:api.${PROJECT_URL}'
 
   solr:
     image: wodby/drupal-solr:8-6.6-2.4.0
