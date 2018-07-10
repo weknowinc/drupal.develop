@@ -1,0 +1,48 @@
+{
+    "videos": [
+      { "video_id": "3wz1mDufyKs", "title": "The Pineapple Thief - Give it Back (from All the Wars)", "video": "https://www.youtube.com/watch?v=3wz1mDufyKs", "description": "The Pineapple Thief return with a new EP. In addition to the title track, taken from their acclaimed 2012 album All The Wars, the EP also features 3 brand new studio tracks along with a previously unreleased remix of Build A World.", "tags": "prog, rock", "provider": "youtube", "playlist":"music" },
+      { "video_id": "fjOis-QWPdI", "title": "Anathema - Thin Air (from the Universal concert film)", "video": "https://www.youtube.com/watch?v=fjOis-QWPdI", "description" : "Aenean ullamcorper nibh libero,in congue ligula varius id. Pellentesque eget congue metus, eget varius libero. Donec lorem odio, faucibus a turpis quis, eleifend rhoncus ligula. Nulla hendrerit, purus eget scelerisque aliquet, enim dolor lobortis ipsum, a mollis est ligula in urna. Nunc tellus dui, aliquet in erat ac, iaculis pellentesque mauris. Fusce blandit egestas nibh, ut vulputate nisl efficitur condimentum. Phasellus ligula lorem, ornare in tempor at, blandit pretium eros. Fusce vel ligula sapien", "tags": "prog, rock", "provider": "youtube", "playlist":"music" },
+      { "video_id": "eirPeYZ8V-E", "title": "Jägermeister Music Presents: TesseracT - Hexes feat. Martin Grech - Live in the Studio", "video": "https://www.youtube.com/watch?v=eirPeYZ8V-E", "description": "Ahead of the release of TESSERACT's new studio album 'Sonder', the band has revealed the official video for the new single 'King'. The emotive and viscerally challenging clip was directed by Kyle Kadow and Steven Cleavland and shot in a snowy Wisconsin following a brutal storm, which all added to the atmospheric footage.", "provider": "youtube", "playlist":"music" },
+      { "video_id": "315qJJ3Y9uA", "title": "Ghost - Deezer Session", "video": "https://www.youtube.com/watch?v=315qJJ3Y9uA", "description" : "Songs featured in the video: 1.- From The Pinnacle to The Pit. 2.- Ciric. 3.- Absolution.", "tags": "metal, rock", "provider": "youtube", "playlist":"music" },
+      { "video_id": "kdc42ttTMXM", "title": "Fates Warning - 'Still Remains' Live in Athens 2005 (With Kevin Moore)", "video": "https://www.youtube.com/watch?v=kdc42ttTMXM", "tags": "prog, metal, rock", "provider": "youtube", "playlist":"music" },
+      { "video_id": "39C95xCldec", "title": "Karnivool - New Day | Live in Sydney | Moshcam", "video": "https://www.youtube.com/watch?v=39C95xCldec", "tags": "prog, rock, alternative", "provider": "youtube", "playlist":"music" },
+      { "video_id": "_D8am-EZmY0", "title": "A Perfect Circle - So Long, And Thanks for All the Fish", "video": "https://www.youtube.com/watch?v=_D8am-EZmY0", "tags": "prog, rock, alternative", "provider": "youtube", "playlist":"music" },
+      { "video_id": "fV7KAarJgNg", "title": "Opeth - Ghost of Perdition", "video": "https://www.youtube.com/watch?v=fV7KAarJgNg", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam semper finibus velit ac lacinia. Etiam quis orci sodales, fermentum nunc non, pellentesque magna. Suspendisse potenti. Curabitur rhoncus interdum ligula, eget rutrum nibh ultrices eget. Phasellus eleifend egestas ligula, quis tempus metus pellentesque vitae. Aenean ullamcorper nibh libero,in congue ligula varius id. Pellentesque eget congue metus, eget varius libero. Donec lorem odio, faucibus a turpis quis, eleifend rhoncus ligula. Nulla hendrerit, purus eget scelerisque aliquet, enim dolor lobortis ipsum, a mollis est ligula in urna. Nunc tellus dui, aliquet in erat ac, iaculis pellentesque mauris. Fusce blandit egestas nibh, ut vulputate nisl efficitur condimentum. Phasellus ligula lorem, ornare in tempor at, blandit pretium eros. Fusce vel ligula sapien.", "tags": "prog, rock", "provider": "youtube", "playlist":"music" },
+      { "video_id": "215972", "title": "Porcupine Tree - Fear of a Blank Planet", "video": "https://vimeo.com/215972", "description" :"", "tags": "prog, rock, metal", "provider": "vimeo", "playlist":"music" },
+      { "video_id": "79344518", "title": "Queens of the Stone Age - “The Vampyre of Time and Memory” live in Cologne", "video": "https://vimeo.com/79344518", "description" :"", "tags": "rock, alternative", "provider": "vimeo", "playlist":"music" },
+      { "video_id": "19401189", "title": "Deftones Digital Bath", "video": "https://vimeo.com/19401189", "description" :"", "tags": "rock, alternative, metal", "provider": "vimeo", "playlist":"music" },
+  
+      { "video_id": "mHTuXXfBs7Y", "title": "Developing a Drupal 8 module with a controller and custom template", "video": "https://www.youtube.com/watch?v=mHTuXXfBs7Y", "description" :"", "tags": "drupal", "provider": "youtube", "playlist":"code" },
+      { "video_id": "pGXwWpyYxSo", "title": "What Are Hooks?", "video": "https://www.youtube.com/watch?v=pGXwWpyYxSo", "description" :"", "tags": "drupal", "provider": "youtube", "playlist":"code" },
+      { "video_id": "239672145", "title": "Redux, beyond React - Aaron Powell", "video": "https://vimeo.com/239672145", "description" :"", "tags": "react", "provider": "vimeo", "playlist":"code" },
+      { "video_id": "247494684", "title": "What is Vue.js?", "video": "https://vimeo.com/247494684", "description" :"", "tags": "vue", "provider": "vimeo", "playlist":"code" },
+      { "video_id": "xsSnOQynTHs", "title": "Dan Abramov - Live React: Hot Reloading with Time Travel at react-europe 2015", "video": "https://www.youtube.com/watch?v=xsSnOQynTHs", "description" :"", "tags": "react", "provider": "youtube", "playlist":"code" },
+      { "video_id": "261027443", "title": "2018-03-20 - GraphQL - Full Stack App", "video": "https://vimeo.com/261027443", "description" :"", "tags": "graphql", "provider": "vimeo", "playlist":"code" },
+  
+      { "video_id": "V9IJj4MzZBc", "title": "Docker 101: Introduction to Docker", "video": "https://www.youtube.com/watch?v=V9IJj4MzZBc", "description" :"", "tags": "docker, devops", "provider": "youtube", "playlist":"devops" },
+      { "video_id": "RnWXOAplvjY", "title": "DockerCon 2018 SF - Cool Hacks - June 14, 2018", "video": "https://www.youtube.com/watch?v=RnWXOAplvjY", "description" :"", "tags": "docker, devops", "provider": "youtube", "playlist":"devops" },
+      { "video_id": "277280457", "title": "DevOps Tools Tutorial Videos - DevOps Structure Components - What is DNS - DNS Explained", "video": "https://vimeo.com/277280457", "description" :"", "tags": "docker, devops", "provider": "vimeo", "playlist":"devops" },
+      { "video_id": "274697537", "title": "Ten Ways Kubernetes Enables DevOps by Siamak Sadeghianfar", "video": "https://vimeo.com/274697537", "description" :"", "tags": "kubernetes, devops", "provider": "vimeo", "playlist":"devops" },
+      { "video_id": "SGBEq4A8ZHQ", "title": "DockerCon 2018 SF - Day 1 General Session - June 13, 2018", "video": "https://www.youtube.com/watch?v=SGBEq4A8ZHQ", "description" :"", "tags": "docker, devops", "provider": "youtube", "playlist":"devops" },
+      { "video_id": "gpmerrSpbHg", "title": "Kubernetes Tutorial | Kubernetes | Kubernetes tutorial for beginners", "video": "https://www.youtube.com/watch?v=gpmerrSpbHg", "description" :"", "tags": "kubernetes, devops", "provider": "youtube", "playlist":"devops" }
+  
+    ],
+    "playlists": [
+      { "id":"1", "name":"Music", "videos": [ "te5bGWJIlOk", "ZMpuHeXnGyE", "NyBUs1irpgw", "315qJJ3Y9uA", "rvT6GyrrhG4", "2q0hQaoHStE", "_D8am-EZmY0", "fV7KAarJgNg", "K0gryiltJo0", "215972", "79344518", "19401189" ] },
+      { "id":"2", "name":"Code", "videos": [ "mHTuXXfBs7Y", "pGXwWpyYxSo", "239672145", "247494684", "xsSnOQynTHs", "261027443" ] },
+      { "id":"3", "name":"Devops", "videos": [ "V9IJj4MzZBc", "RnWXOAplvjY", "277280457", "274697537", "SGBEq4A8ZHQ", "gpmerrSpbHg" ] }
+    ],
+    "providers": [
+      { "id":"1", "name":"Youtube" },
+      { "id":"2", "name":"Vimeo" }
+    ],
+    "tags": [
+      { "id":"1", "name":"rock" },
+      { "id":"2", "name":"prog" },
+      { "id":"3", "name":"alternative" },
+      { "id":"4", "name":"pop" },
+      { "id":"5", "name":"docker" },
+      { "id":"6", "name":"kubernetes" },
+      { "id":"7", "name":"devops" }
+    ]
+  }
