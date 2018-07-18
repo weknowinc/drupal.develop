@@ -3,6 +3,12 @@ drupal.develop
 
 This is a Composer-based installer for the [Lightning](https://www.drupal.org/project/lightning) Drupal distribution. Welcome to the future!
 
+## Project dependencies
+* [git](https://git-scm.com/)
+* [docker](https://www.docker.com/)
+* [ahoy](https://github.com/ahoy-cli/ahoy)
+
+
 ## Project setup
 ```
 # Clone repository
