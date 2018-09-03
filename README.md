@@ -6,7 +6,7 @@ This is a Composer-based installer for the [Lightning](https://www.drupal.org/pr
 ## Project dependencies
 * [git](https://git-scm.com/)
 * [docker](https://www.docker.com/)
-* [ahoy](https://github.com/ahoy-cli/ahoy)
+* [ahoy (ver 2)](https://github.com/ahoy-cli/ahoy)
 
 
 ## Project setup
